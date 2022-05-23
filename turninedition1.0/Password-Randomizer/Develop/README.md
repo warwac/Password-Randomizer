@@ -23,8 +23,7 @@ index and assets folder uploaded to the deployed webserver. The CSS files and im
 
 # Screenshot
 
-[
-](https://warwac.github.io/Password-Randomizer/)
+![screenshot](https://warwac.github.io/Password-Randomizer/)
 
 
 
